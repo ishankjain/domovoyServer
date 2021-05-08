@@ -2,7 +2,7 @@ absl-py==0.7.1
 astor==0.7.1
 Click==7.0
 dnspython==1.16.0
-eventlet==0.24.1
+eventlet==0.31.0
 Flask==1.0.2
 Flask-SocketIO==3.3.2
 gast==0.2.2
